@@ -1,0 +1,40 @@
+<annotation>
+	<folder>image</folder>
+	<filename>images (3).jpeg</filename>
+	<path>D:\d\python\s\pythonProject\f\twitch_bot\11\rust\image\images (3).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>323</width>
+		<height>156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>9</ymin>
+			<xmax>166</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+		<extra>tree</extra>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>42</ymin>
+			<xmax>134</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+		<extra>tree</extra>
+	</object>
+</annotation>
